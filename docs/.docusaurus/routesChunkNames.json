@@ -1,0 +1,78 @@
+{
+  "/pt/docs-6d6": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/pt/docs-3f9": {
+    "__comp": "a7bd4aaa",
+    "__props": "cf755a3d"
+  },
+  "/pt/docs-3d6": {
+    "__comp": "a94703ab"
+  },
+  "/pt/docs/architecture/ai-engine-e55": {
+    "__comp": "17896441",
+    "content": "41f325ab"
+  },
+  "/pt/docs/architecture/backend-fe8": {
+    "__comp": "17896441",
+    "content": "9dd2f382"
+  },
+  "/pt/docs/architecture/contracts-02f": {
+    "__comp": "17896441",
+    "content": "3e094c1e"
+  },
+  "/pt/docs/architecture/frontend-9ef": {
+    "__comp": "17896441",
+    "content": "f964e206"
+  },
+  "/pt/docs/architecture/overview-cff": {
+    "__comp": "17896441",
+    "content": "0b1ac180"
+  },
+  "/pt/docs/guides/deployment-0f4": {
+    "__comp": "17896441",
+    "content": "caaf7770"
+  },
+  "/pt/docs/guides/scoring-algorithm-ba3": {
+    "__comp": "17896441",
+    "content": "52d107be"
+  },
+  "/pt/docs/guides/setup-881": {
+    "__comp": "17896441",
+    "content": "96cdebaa"
+  },
+  "/pt/docs/guides/wallets-64c": {
+    "__comp": "17896441",
+    "content": "a5edf620"
+  },
+  "/pt/docs/intro-304": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/pt/docs/reference/api-ai-ece": {
+    "__comp": "17896441",
+    "content": "f0d1f6bc"
+  },
+  "/pt/docs/reference/api-backend-932": {
+    "__comp": "17896441",
+    "content": "80cbad1b"
+  },
+  "/pt/docs/reference/contract-interface-fd3": {
+    "__comp": "17896441",
+    "content": "c9438abe"
+  },
+  "/pt/docs/roadmap-855": {
+    "__comp": "17896441",
+    "content": "0dffb83e"
+  },
+  "/pt/-23f": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}

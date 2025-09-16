@@ -1,0 +1,24 @@
+{
+  "id": "architecture/backend",
+  "title": "Backend Architecture",
+  "description": "Stack",
+  "source": "@site/docs/architecture/backend.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/backend",
+  "permalink": "/pt/docs/architecture/backend",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jistriane/StellarCredit-1.0/tree/main/docs/docs/architecture/backend.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Frontend Architecture",
+    "permalink": "/pt/docs/architecture/frontend"
+  },
+  "next": {
+    "title": "AI Engine Architecture",
+    "permalink": "/pt/docs/architecture/ai-engine"
+  }
+}

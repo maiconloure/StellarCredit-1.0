@@ -1,0 +1,24 @@
+{
+  "id": "reference/api-ai",
+  "title": "AI Engine API Reference",
+  "description": "Base URL//localhost:8000",
+  "source": "@site/docs/reference/api-ai.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/api-ai",
+  "permalink": "/pt/docs/reference/api-ai",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jistriane/StellarCredit-1.0/tree/main/docs/docs/reference/api-ai.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Backend API Reference",
+    "permalink": "/pt/docs/reference/api-backend"
+  },
+  "next": {
+    "title": "Contract Interface Reference",
+    "permalink": "/pt/docs/reference/contract-interface"
+  }
+}

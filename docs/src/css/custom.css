@@ -1,0 +1,14 @@
+/* Custom theme overrides */
+:root {
+  --ifm-color-primary: #1b4bff;
+  --ifm-color-primary-dark: #0041e6;
+  --ifm-color-primary-darker: #003bce;
+  --ifm-color-primary-darkest: #0034b6;
+  --ifm-color-primary-light: #3562ff;
+  --ifm-color-primary-lighter: #4f76ff;
+  --ifm-color-primary-lightest: #6a8aff;
+}
+
+.hero--primary {
+  background: radial-gradient(circle at 30% 30%, #1b4bff, #0a1f4d);
+}

@@ -1,0 +1,6 @@
+{
+  "entryPoints": ["../backend"],
+  "out": "docs/reference/backend-internal",
+  "exclude": ["**/node_modules/**", "**/dist/**"],
+  "readme": "none"
+}

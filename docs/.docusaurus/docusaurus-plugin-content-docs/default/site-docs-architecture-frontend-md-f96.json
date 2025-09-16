@@ -1,0 +1,24 @@
+{
+  "id": "architecture/frontend",
+  "title": "Frontend Architecture",
+  "description": "Stack",
+  "source": "@site/docs/architecture/frontend.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/frontend",
+  "permalink": "/pt/docs/architecture/frontend",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jistriane/StellarCredit-1.0/tree/main/docs/docs/architecture/frontend.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Architecture Overview",
+    "permalink": "/pt/docs/architecture/overview"
+  },
+  "next": {
+    "title": "Backend Architecture",
+    "permalink": "/pt/docs/architecture/backend"
+  }
+}

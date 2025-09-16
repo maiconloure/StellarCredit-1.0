@@ -1,0 +1,20 @@
+{
+  "id": "roadmap",
+  "title": "Roadmap",
+  "description": "Near Term (0-2 Months)",
+  "source": "@site/docs/roadmap.md",
+  "sourceDirName": ".",
+  "slug": "/roadmap",
+  "permalink": "/pt/docs/roadmap",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jistriane/StellarCredit-1.0/tree/main/docs/docs/roadmap.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Contract Interface Reference",
+    "permalink": "/pt/docs/reference/contract-interface"
+  }
+}

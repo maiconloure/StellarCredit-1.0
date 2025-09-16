@@ -1,0 +1,24 @@
+{
+  "id": "guides/wallets",
+  "title": "Wallet Integration Guide",
+  "description": "Supported Wallets (Planned / Current)",
+  "source": "@site/docs/guides/wallets.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/wallets",
+  "permalink": "/pt/docs/guides/wallets",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jistriane/StellarCredit-1.0/tree/main/docs/docs/guides/wallets.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Setup Guide",
+    "permalink": "/pt/docs/guides/setup"
+  },
+  "next": {
+    "title": "Scoring Algorithm Guide",
+    "permalink": "/pt/docs/guides/scoring-algorithm"
+  }
+}

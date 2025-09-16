@@ -1,0 +1,7 @@
+{
+  "entryPoints": ["../frontend/src"],
+  "tsconfig": "../frontend/tsconfig.json",
+  "out": "docs/reference/frontend-api",
+  "exclude": ["**/*.test.ts", "**/node_modules/**"],
+  "readme": "none"
+}

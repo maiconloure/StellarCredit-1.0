@@ -1,0 +1,98 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/pt/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/pt/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "architecture/ai-engine",
+              "path": "/pt/docs/architecture/ai-engine",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "architecture/backend",
+              "path": "/pt/docs/architecture/backend",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "architecture/contracts",
+              "path": "/pt/docs/architecture/contracts",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "architecture/frontend",
+              "path": "/pt/docs/architecture/frontend",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "architecture/overview",
+              "path": "/pt/docs/architecture/overview",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "guides/deployment",
+              "path": "/pt/docs/guides/deployment",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "guides/scoring-algorithm",
+              "path": "/pt/docs/guides/scoring-algorithm",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "guides/setup",
+              "path": "/pt/docs/guides/setup",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "guides/wallets",
+              "path": "/pt/docs/guides/wallets",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/pt/docs/intro",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "reference/api-ai",
+              "path": "/pt/docs/reference/api-ai",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "reference/api-backend",
+              "path": "/pt/docs/reference/api-backend",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "reference/contract-interface",
+              "path": "/pt/docs/reference/contract-interface",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "roadmap",
+              "path": "/pt/docs/roadmap",
+              "sidebar": "mainSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "mainSidebar": {
+              "link": {
+                "path": "/pt/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

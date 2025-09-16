@@ -1,0 +1,24 @@
+{
+  "id": "guides/scoring-algorithm",
+  "title": "Scoring Algorithm Guide",
+  "description": "Objective",
+  "source": "@site/docs/guides/scoring-algorithm.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/scoring-algorithm",
+  "permalink": "/pt/docs/guides/scoring-algorithm",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jistriane/StellarCredit-1.0/tree/main/docs/docs/guides/scoring-algorithm.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Wallet Integration Guide",
+    "permalink": "/pt/docs/guides/wallets"
+  },
+  "next": {
+    "title": "Deployment Guide",
+    "permalink": "/pt/docs/guides/deployment"
+  }
+}

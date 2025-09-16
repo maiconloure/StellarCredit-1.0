@@ -1,0 +1,24 @@
+{
+  "id": "guides/deployment",
+  "title": "Deployment Guide",
+  "description": "Targets",
+  "source": "@site/docs/guides/deployment.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/deployment",
+  "permalink": "/pt/docs/guides/deployment",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jistriane/StellarCredit-1.0/tree/main/docs/docs/guides/deployment.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Scoring Algorithm Guide",
+    "permalink": "/pt/docs/guides/scoring-algorithm"
+  },
+  "next": {
+    "title": "Backend API Reference",
+    "permalink": "/pt/docs/reference/api-backend"
+  }
+}

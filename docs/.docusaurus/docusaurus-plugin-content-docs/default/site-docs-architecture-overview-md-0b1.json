@@ -1,0 +1,24 @@
+{
+  "id": "architecture/overview",
+  "title": "Architecture Overview",
+  "description": "Stellar Credit is composed of four primary subsystems orchestrated to deliver real-time decentralized credit scoring.",
+  "source": "@site/docs/architecture/overview.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/overview",
+  "permalink": "/pt/docs/architecture/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jistriane/StellarCredit-1.0/tree/main/docs/docs/architecture/overview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Stellar Credit Documentation",
+    "permalink": "/pt/docs/intro"
+  },
+  "next": {
+    "title": "Frontend Architecture",
+    "permalink": "/pt/docs/architecture/frontend"
+  }
+}

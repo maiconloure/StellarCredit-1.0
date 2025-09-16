@@ -1,0 +1,24 @@
+{
+  "id": "guides/setup",
+  "title": "Setup Guide",
+  "description": "Prerequisites",
+  "source": "@site/docs/guides/setup.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/setup",
+  "permalink": "/pt/docs/guides/setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jistriane/StellarCredit-1.0/tree/main/docs/docs/guides/setup.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Smart Contracts (Soroban)",
+    "permalink": "/pt/docs/architecture/contracts"
+  },
+  "next": {
+    "title": "Wallet Integration Guide",
+    "permalink": "/pt/docs/guides/wallets"
+  }
+}

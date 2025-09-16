@@ -1,0 +1,24 @@
+{
+  "id": "reference/contract-interface",
+  "title": "Contract Interface Reference",
+  "description": "Preliminary, sync with actual contracts/src/*.rs as implementation matures.",
+  "source": "@site/docs/reference/contract-interface.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/contract-interface",
+  "permalink": "/pt/docs/reference/contract-interface",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jistriane/StellarCredit-1.0/tree/main/docs/docs/reference/contract-interface.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "AI Engine API Reference",
+    "permalink": "/pt/docs/reference/api-ai"
+  },
+  "next": {
+    "title": "Roadmap",
+    "permalink": "/pt/docs/roadmap"
+  }
+}

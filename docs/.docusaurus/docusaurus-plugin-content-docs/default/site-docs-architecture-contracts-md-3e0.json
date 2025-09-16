@@ -1,0 +1,24 @@
+{
+  "id": "architecture/contracts",
+  "title": "Smart Contracts (Soroban)",
+  "description": "Purpose",
+  "source": "@site/docs/architecture/contracts.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/contracts",
+  "permalink": "/pt/docs/architecture/contracts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jistriane/StellarCredit-1.0/tree/main/docs/docs/architecture/contracts.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "AI Engine Architecture",
+    "permalink": "/pt/docs/architecture/ai-engine"
+  },
+  "next": {
+    "title": "Setup Guide",
+    "permalink": "/pt/docs/guides/setup"
+  }
+}

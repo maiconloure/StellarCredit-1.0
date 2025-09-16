@@ -1,0 +1,24 @@
+{
+  "id": "reference/api-backend",
+  "title": "Backend API Reference",
+  "description": "NOTE: This is a preliminary specification. Align with actual server.js implementation.",
+  "source": "@site/docs/reference/api-backend.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/api-backend",
+  "permalink": "/pt/docs/reference/api-backend",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jistriane/StellarCredit-1.0/tree/main/docs/docs/reference/api-backend.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Deployment Guide",
+    "permalink": "/pt/docs/guides/deployment"
+  },
+  "next": {
+    "title": "AI Engine API Reference",
+    "permalink": "/pt/docs/reference/api-ai"
+  }
+}
