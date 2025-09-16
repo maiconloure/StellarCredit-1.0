@@ -1,0 +1,36 @@
+{
+  "name": "StellarCredit - Sistema de Score de Crédito Descentralizado",
+  "short_name": "StellarCredit",
+  "description": "Plataforma inovadora que revoluciona o sistema de crédito tradicional usando tecnologia blockchain",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1890ff",
+  "theme_color": "#1890ff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/stellar-credit-logo.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/stellar-credit-logo.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/stellar-credit-logo-optimized.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["finance", "productivity"],
+  "lang": "pt-BR",
+  "dir": "ltr"
+}

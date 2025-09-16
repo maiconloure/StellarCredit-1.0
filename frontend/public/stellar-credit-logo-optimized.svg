@@ -1,0 +1,91 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Stellar Gradient -->
+    <linearGradient id="stellarGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0ea5e9" />
+      <stop offset="50%" stop-color="#3b82f6" />
+      <stop offset="100%" stop-color="#6366f1" />
+    </linearGradient>
+    
+    <!-- Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <!-- Inner Glow -->
+    <filter id="innerGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Main Circle Background -->
+  <circle
+    cx="256"
+    cy="256"
+    r="240"
+    fill="url(#stellarGradient)"
+    filter="url(#glow)"
+  />
+  
+  <!-- Outer Orbital Ring -->
+  <circle
+    cx="256"
+    cy="256"
+    r="200"
+    stroke="rgba(255, 255, 255, 0.2)"
+    stroke-width="2"
+    fill="none"
+    stroke-dasharray="15 10"
+  />
+  
+  <!-- Inner Orbital Ring -->
+  <circle
+    cx="256"
+    cy="256"
+    r="160"
+    stroke="rgba(255, 255, 255, 0.3)"
+    stroke-width="1"
+    fill="none"
+    stroke-dasharray="8 6"
+  />
+  
+  <!-- Central Star -->
+  <g transform="translate(256, 256)">
+    <path
+      d="M0 -80L20 -25L80 -25L35 10L55 65L0 35L-55 65L-35 10L-80 -25L-20 -25L0 -80Z"
+      fill="white"
+      filter="url(#innerGlow)"
+    />
+    <!-- Inner star detail -->
+    <path
+      d="M0 -50L12 -15L50 -15L22 8L32 45L0 25L-32 45L-22 8L-50 -15L-12 -15L0 -50Z"
+      fill="rgba(255, 255, 255, 0.8)"
+    />
+  </g>
+  
+  <!-- Orbital Points -->
+  <circle cx="96" cy="256" r="8" fill="rgba(255, 255, 255, 0.8)"/>
+  <circle cx="416" cy="256" r="6" fill="rgba(255, 255, 255, 0.6)"/>
+  <circle cx="256" cy="96" r="5" fill="rgba(255, 255, 255, 0.7)"/>
+  <circle cx="256" cy="416" r="7" fill="rgba(255, 255, 255, 0.5)"/>
+  
+  <!-- Corner accent points -->
+  <circle cx="156" cy="156" r="4" fill="rgba(255, 255, 255, 0.4)"/>
+  <circle cx="356" cy="156" r="3" fill="rgba(255, 255, 255, 0.4)"/>
+  <circle cx="156" cy="356" r="3" fill="rgba(255, 255, 255, 0.4)"/>
+  <circle cx="356" cy="356" r="4" fill="rgba(255, 255, 255, 0.4)"/>
+  
+  <!-- Subtle connecting lines -->
+  <line x1="96" y1="256" x2="156" y2="156" stroke="rgba(255, 255, 255, 0.1)" stroke-width="1"/>
+  <line x1="416" y1="256" x2="356" y2="156" stroke="rgba(255, 255, 255, 0.1)" stroke-width="1"/>
+  <line x1="256" y1="96" x2="356" y2="156" stroke="rgba(255, 255, 255, 0.1)" stroke-width="1"/>
+  <line x1="256" y1="416" x2="156" y2="356" stroke="rgba(255, 255, 255, 0.1)" stroke-width="1"/>
+</svg>
